@@ -9,3 +9,4 @@ Olá, eu sou Lucas Amorim, aluno do curso NExT.
 * Passei direto no Detran
 * Faz tempo que não vou ao cinema, culpa da covid
 * Sou torcedor do Sport
+* Metade da feature de editar botão
